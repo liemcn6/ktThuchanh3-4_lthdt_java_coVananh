@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nhom4</string>
+    <string-array name="country">
+        <item>Viet Nam</item>
+        <item>Han Quoc</item>
+        <item>Angola</item>
+        <item>Canada</item>
+    </string-array>
+    <string-array name="sanpham">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>PHP</item>
+    </string-array>
+</resources>
